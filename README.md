@@ -3,16 +3,26 @@
 🔍 Know my portfolio  
 📚 I’m currently learning **React** and **Node.js**  
 🌱 I would like to collaborate with fast growing startups  
-📫 How to reach me: noe.fernandez.aguero@gmail.com  
 
 
 ### TECHNICAL SKILLS
 
 #### FRONTEND
-[![FRONTEND](https://skillicons.dev/icons?i=html,css,bootstrap,js,react)](https://skillicons.dev)  
+[![HTML](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
+&nbsp;
+[![CSS](https://skillicons.dev/icons?i=css)]([https://skillicons.dev](https://www.w3schools.com/css/))
+&nbsp;
+[![BOOTSTRAP](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+&nbsp;
+[![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+&nbsp;
+[![REACT](https://skillicons.dev/icons?i=react)](https://react.dev/)
 
 #### BACKEND
-[![BACKEND](https://skillicons.dev/icons?i=php,symfony,nodejs,mysql)](https://skillicons.dev) 
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![SYMFONY](https://skillicons.dev/icons?i=symfony)](https://symfony.com/) 
+[![NODEJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) 
+[![MYSQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) 
 
 
 ### SOFT SKILLS
